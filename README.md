@@ -2,7 +2,6 @@
 
 🎓 Year 2 Software Engineering Student @ University of Malaya  
 💡 Passionate about AI, Full Stack Development & Robotics  
-🚀 Actively seeking Software Engineering Internship opportunities  
 
 ---
 
@@ -17,7 +16,8 @@ I have participated in multiple hackathons, where I focused on building impactfu
 ## 🎓 Academics
 - **University:** University of Malaya (UM)  
 - **Program:** Software Engineering  
-- **Year:** Year 2  
+- **Year:** Year 2
+- **Current CGPA:** 3.72
 
 ---
 
@@ -25,7 +25,7 @@ I have participated in multiple hackathons, where I focused on building impactfu
 
 | Position | Hackathon | Year | Description | Link |
 |---------|----------|------|------------|------|
-| Top 4 | AI Hackathon (ZeroHR) | 2026 | Developed an enterprise HR system to streamline operations and improve employee self-service. Built full-stack system using Next.js, TypeScript, FastAPI, and PostgreSQL. Implemented AI-driven decision dashboard with bias auditing. | [Link](#) |
+| Top 42 | AI Hackathon (ZeroHR) | 2026 | Developed an enterprise HR system to streamline operations and improve employee self-service. Built full-stack system using Next.js, TypeScript, FastAPI, and PostgreSQL. Implemented AI-driven decision dashboard with bias auditing. | [Link](#) |
 | 1st Runner Up | SDG XI Hackathon (PowerPulse) | 2025 | Built an electricity monitoring system supporting SDG 7. Implemented backend modeling in Python and application logic in TypeScript with energy optimization features. | [Link](#) |
 | 2nd Runner Up | UM Technothon (Amphibot) | 2024 | Developed an amphibious robot capable of navigating land and water to deliver emergency supplies. Integrated AI, sensors, and real-time monitoring system. | [Link](#) |
 
@@ -61,8 +61,8 @@ I have participated in multiple hackathons, where I focused on building impactfu
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn Link]
-- GitHub: https://github.com/yourusername  
+- LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/xian-yang-ng-45b011332/)]
+- GitHub: https://github.com/xianyang05
 
 ---
 
