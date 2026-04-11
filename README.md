@@ -1,8 +1,8 @@
-# Hi 👋 I'm Xian Yang Ng
+# Hi 👋 I'm Xian Yang
 
 ## 🧑‍💻 About Me
 I am a Y2 Software Engineering student with strong interest in building intelligent systems that solve real-world problems.  
-I enjoy developing full-stack applications, integrating AI into practical workflows, and working on hardware-software systems such as robotics.
+I enjoy developing full-stack applications, integrating AI into practical workflows.
 
 ---
 
@@ -30,17 +30,15 @@ I enjoy developing full-stack applications, integrating AI into practical workfl
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
   ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 
----
-
 **AI Integration**  
+
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
----
-
 **Programming**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -71,8 +69,6 @@ I enjoy developing full-stack applications, integrating AI into practical workfl
 
 **Tech Stack:** `Java` `Android Studio` `Firebase`
 
----
-
 ### 📊 Cash Flow Predictor
 - Analyzed financial data to identify trends in cash flow management  
 - Built a Linear Regression model to predict future cash flow  
@@ -84,5 +80,3 @@ I enjoy developing full-stack applications, integrating AI into practical workfl
 
 ## 📫 Contact
 - LinkedIn: [(https://www.linkedin.com/in/xian-yang-ng-45b011332/)]
-  
----
