@@ -8,7 +8,6 @@ I enjoy developing full-stack applications, integrating AI into practical workfl
 
 ## 🎓 Academics
 **Y2 Software Engineering @ Universiti Malaya**
-- **Current CGPA:** 3.72
 
 ---
 
