@@ -50,6 +50,7 @@ I enjoy developing full-stack applications, integrating AI into practical workfl
 
 | Position | Hackathon | Year | Description | Link |
 |---------|----------|------|------------|------|
+| Top 10 Finalist | MyHack | 2026 | Built an AI-powered platform for startup–mentor matching using a hybrid AI pipeline, graph-based recommendations, semantic vector search, and explainable AI with human-in-the-loop approvals. | [View Project](https://github.com/xianyang-05/EcoSync) |
 | Paticipants | FinHack | 2026 | Built an adversarial AML simulation platform to stress-test fraud detection using competing AI agents. Designed a full-stack system with scenario generation, defense validation, and human review, enhanced with impact analysis and compliance reporting. | [View Project](https://github.com/xianyang-05/DualMind) |
 | Consolation Prize | VHack | 2026 | Built a predictive maintenance platform to minimize machine downtime in SMEs. Designed a full-stack system with monitoring, scheduling, and cost analysis features, enhanced with AI-based anomaly detection and diagnostics. | [View Project](https://github.com/TeohJunZe/AntiFault) |
 | Top 42 Semi-final | Deriv AI Hackathon | 2026 | Developed an enterprise HR system to streamline operations and improve employee self-service. Built full-stack system using Next.js, TypeScript, FastAPI, and PostgreSQL. Implemented AI-driven decision dashboard with bias auditing. | [View Project](https://github.com/xianyang-05/Zero_HR) |
